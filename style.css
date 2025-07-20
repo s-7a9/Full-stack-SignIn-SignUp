@@ -77,3 +77,28 @@ p a {
 p a:hover {
     text-decoration: underline;
 }
+.error-message {
+    padding: 12px;
+    background: #f8d7da;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #a42834;
+    text-align : center;
+    margin-bottom: 20px;
+}
+h1 {
+    font-size:50px ;
+}
+
+span{
+    color:#7494ec;
+}
+
+.box p {
+    font-size: 22px;
+}
+.box button {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}
